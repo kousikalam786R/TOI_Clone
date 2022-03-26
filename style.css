@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-color: #1a1a1a;
+    
+}
+.container{
+    color: white;
+
+}
+.left-header ul{
+    list-style: none;
+    display: flex;
+   
+
+}
+.left-header ul li{
+    padding: 3px;
+    font-size: 12px;
+}
+.select{
+    background: none;
+    border: none;
+    color: white;
+    
+}
+ .login{
+    background-color: #a95ecf;
+    text-align: center;
+    margin: 2px;
+    padding: 4px;
+    border-radius: 5px;
+  
+}
+.login span{
+    font-size: 15px;
+}
+.login img{
+    margin-bottom: 2px;
+}
+.right-header{
+    justify-content: center;
+  
+}
+.right-header ul{
+    display: flex;
+    margin-top: 5px;
+}
+.right-header ul li{
+    list-style: none;
+}
+.right-header img{
+    height: 20px;
+    width: 20px;
+    margin: 0px 5px 0 5px;
+    padding: 2px;
+    background-color: white;
+     border-radius: 50%;
+}
+.right-header a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+   
+    margin-right: 2px;
+}
+.header2{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.header2 h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.weather{
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+}
+.weather img{
+    margin: 0 3px 0 3px;
+}
+.navbar{
+    background-color: #be2819;
+    
+}
+
+.nav-item{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+
+.nav-item li{
+    list-style: none;
+    margin: 0 3px 0 3px;
+    display: inline-block ;
+   
+}
+.nav-item a{
+    text-decoration: none;
+    color: white;
+}
+.news{
+
+}
+.news a{
+    color: black;
+}
+.main{
+    color: black;
+}
+.main span{
+    font-size: 12px;
+    
+}
+.latest-news{
+    margin-left: 30px;
+}
+.latest-news h1{
+    text-transform: uppercase;
+    font-size: 35px;
+  
+
+}
+.popular-news h5{
+    text-transform: uppercase;
+
+}
+.popular-news ul{
+color: white;
+   background-color: gray;
+   word-spacing: 5px;
+  border-bottom: 3px solid black;
+   
+  
+}
+.popular-news ul li{
+    display: inline-block;
+    list-style: none;
+    text-transform: uppercase;
+   margin: 4px;
+   border-spacing: 5px;
+    
+
+
+
+}
+.entertainment-news{
+    display: flex;
+   
+   
+}
+.entertainment-news img{
+    margin: 5px;
+}
+.sports-news{
+    display: flex;
+    
+}
+.sports-news img{
+    margin: 5px;
+}
+.fotter{
+    background-color: #111111;
+    border-top: 2px solid red;
+    margin-top: 20px;
+
+} 
+
+.left-fotter ul li{
+    list-style: none;
+    font-size: 13px;
+}
+.right-fotter ul li{
+    list-style:none;
+    font-size: 13px;
+}
+.social-icon{
+    text-align: right;
+}
+.social-icon h6{
+    margin-right: 50px
+}
+.social-icon ul{
+    display: flex;
+    justify-content: end;
+    
+    
+}
+.social-icon ul li{
+    color: white;
+    list-style: none;
+    display: inline;
+    margin: 5px;
+}
+.social-icon img{
+    height: 30px;
+    width: 30px;
+}
+.toi-icon ul li{
+    color: white;
+    list-style: none;
+    display:inline-block;
+    margin: 5px;
+
+}
+
+
+.toi-icon img{
+    height: 30px;
+    width: 30px;
+    background-color: #333333;
+    border-radius: 40%;
+    padding: 5px;
+
+}
+.toi-icon h6{
+    margin-left: 30px;
+}
+.fotter-end{
+    background-color: #1b1b1b;
+    display: flex;
+  
+    
+    
+}
+.fotter-end h3{
+    text-transform: uppercase;
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: -8px;
+   
+}
+.fotter-end UL{
+    color: white;
+}
+.fotter-end ul li{
+    list-style: none;
+    color: white;
+    font-size: 12px;
+    
+}
+
+
